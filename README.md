@@ -74,5 +74,3 @@ All endpoints were tested using Postman to verify correct interaction with Mongo
 ## Notes
 The /objects endpoint represents ticket data. MongoDB replaces the JSON-based storage used in Assignment 1.
 
-## Author
-Your Name
